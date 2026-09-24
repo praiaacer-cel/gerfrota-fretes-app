@@ -1,4 +1,4 @@
-name: Build GerFrota APK // Atualizando 24092026
+name: Build GerFrota APK
 
 on:
   push:
